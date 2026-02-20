@@ -1,13 +1,10 @@
-/* OH11 Field Hub - Service Worker
-   Offline app shell (UI loads even without signal).
-*/
-
-const CACHE_NAME = "oh11-links-v4"; // ✅ bump version when you update
+// service-worker.js (FULL) - bump cache name whenever you update
+const CACHE_NAME = "oh11-links-v6";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./manifest.json"
-  // add icons here if you have them:
+  // Add icons if you have them:
   // "./icon-192.png",
   // "./icon-512.png"
 ];

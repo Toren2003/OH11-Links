@@ -1,6 +1,6 @@
-// manifest.json (no change required unless you want to update name/icons)
+// manifest.json (FULL)
 {
-  "name": "OH11 Links",
+  "name": "OH11 Field Hub",
   "short_name": "OH11",
   "start_url": "./",
   "scope": "./",
